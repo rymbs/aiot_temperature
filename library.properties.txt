@@ -1,0 +1,9 @@
+name=aiot-temperature-inferencing
+version=1.0.0
+author=Rym
+maintainer=Rym
+sentence=Edge Impulse inference library
+paragraph=Edge Impulse inference library
+category=Data Processing
+url=https://github.com/rymbs/aiot_temperature
+architectures=*
